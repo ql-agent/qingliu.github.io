@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "公众号",
+        href: "https://mp.weixin.qq.com/s/Chum39y8OgPLN-CtqqZqhQ"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "清华大学深研院",
+        href: "https://www.sigs.tsinghua.edu.cn/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "ChatGPT",
+        href: "https://chatgpt.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Claude",
+        href: "https://claude.ai/new"
     }
 ]
